@@ -1,0 +1,5 @@
+body{ border: thin; box-sizing: border-box; color: black;}
+
+h2{font-family: Gabriola, sans-serif; font-size: 2em; color: rgb(35,102, 12); text-transform: uppercase;
+    letter-spacing: 1px;}
+h1{font-family:Century Gothic, serif; font-size: 4em; font-weight: 500;line-height: 300%; text-align: center; margin:0;  text-decoration: none; background-image:url("images/punjabithali.jpg"); color: darkblue;}
